@@ -9,5 +9,5 @@
 
 
 ### Precisa entrar em contato comigo? 📫
-- _preferred_ Discord: henry.santoss
+- Discord: henry.santoss
 - Instagram: henry.santoss

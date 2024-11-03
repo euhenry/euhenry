@@ -6,8 +6,3 @@
     <li>Desenvolvedor Back-End</li>
     <li>Militar de carreira da Marinha do Brasil (2023-202*)</li>
 </ul>
-
-
-### Precisa entrar em contato comigo? 📫
-- Discord: henry.santoss
-- Instagram: henry.santoss
